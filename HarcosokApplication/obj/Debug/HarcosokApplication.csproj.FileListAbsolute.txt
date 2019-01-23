@@ -1,0 +1,15 @@
+C:\Users\zolta\source\repos\HarcosokApplication\HarcosokApplication\bin\Debug\HarcosokApplication.exe.config
+C:\Users\zolta\source\repos\HarcosokApplication\HarcosokApplication\bin\Debug\HarcosokApplication.exe
+C:\Users\zolta\source\repos\HarcosokApplication\HarcosokApplication\bin\Debug\HarcosokApplication.pdb
+C:\Users\zolta\source\repos\HarcosokApplication\HarcosokApplication\bin\Debug\Google.Protobuf.dll
+C:\Users\zolta\source\repos\HarcosokApplication\HarcosokApplication\bin\Debug\MySql.Data.dll
+C:\Users\zolta\source\repos\HarcosokApplication\HarcosokApplication\bin\Debug\Google.Protobuf.xml
+C:\Users\zolta\source\repos\HarcosokApplication\HarcosokApplication\bin\Debug\MySql.Data.xml
+C:\Users\zolta\source\repos\HarcosokApplication\HarcosokApplication\obj\Debug\HarcosokApplication.csprojAssemblyReference.cache
+C:\Users\zolta\source\repos\HarcosokApplication\HarcosokApplication\obj\Debug\HarcosokApplication.Form1.resources
+C:\Users\zolta\source\repos\HarcosokApplication\HarcosokApplication\obj\Debug\HarcosokApplication.Properties.Resources.resources
+C:\Users\zolta\source\repos\HarcosokApplication\HarcosokApplication\obj\Debug\HarcosokApplication.csproj.GenerateResource.cache
+C:\Users\zolta\source\repos\HarcosokApplication\HarcosokApplication\obj\Debug\HarcosokApplication.csproj.CoreCompileInputs.cache
+C:\Users\zolta\source\repos\HarcosokApplication\HarcosokApplication\obj\Debug\HarcosokApplication.csproj.CopyComplete
+C:\Users\zolta\source\repos\HarcosokApplication\HarcosokApplication\obj\Debug\HarcosokApplication.exe
+C:\Users\zolta\source\repos\HarcosokApplication\HarcosokApplication\obj\Debug\HarcosokApplication.pdb
